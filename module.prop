@@ -1,0 +1,7 @@
+id=MIDO_CAMERA_DEVICEFEATURES
+name=Additional Features for Vince Stock Camera
+version=v1.00
+versionCode=1
+author=ROY
+description=Adds Live HDR, Chroma Flash, 4K Support, Manual Controls, Torch Capture, Quick Snap, Square Mode, Full Size Panorama, Full Size Effect and 100 burst shot count to stock MIUI camera
+minMagisk=1500
